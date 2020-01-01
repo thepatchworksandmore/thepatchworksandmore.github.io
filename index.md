@@ -1,6 +1,13 @@
 ---
 title: Home
 sections:
+  - section_id: call-to-action
+    component: cta_block.html
+    type: ctablock
+    title: For our latest news and updates, please take a look at our Facebook page!
+    actions:
+      - label: Visit us on Facebook
+        url: https://www.facebook.com/thepatchworksandmore/
   - section_id: hero
     component: hero_block.html
     type: heroblock
@@ -72,14 +79,6 @@ sections:
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
-  - section_id: call-to-action
-    component: cta_block.html
-    type: ctablock
-    title: Visit us on Facebook!
-    subtitle: For the latest updates about our stock, opening times and much more besides, take a look at our facebbok page.
-    actions:
-      - label: Visit us on Facebook
-        url: https://www.facebook.com/thepatchworksandmore/
 menus:
   main:
     weight: 1
