@@ -4,7 +4,7 @@ sections:
   - section_id: call-to-action
     component: cta_block.html
     type: ctablock
-    title: For our latest news and updates, please take a look at our Facebook page!
+    title: For our latest news and updates, please...
     actions:
       - label: Visit us on Facebook
         url: https://www.facebook.com/thepatchworksandmore/

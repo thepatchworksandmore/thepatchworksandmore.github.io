@@ -159,7 +159,6 @@
       -webkit-flex: 0 0 auto;
       -ms-flex: 0 0 auto;
       flex: 0 0 auto;
-      padding-left: 68px;
     }
   }
 }
@@ -508,8 +507,6 @@
 
   &.bg-accent {
     background: _palette(accent);
-    background: -webkit-linear-gradient(to right,_palette(accent), _palette(accent-alt));
-    background: linear-gradient(to right,_palette(accent), _palette(accent-alt));
     color: #fff;
 
     .block-title {
